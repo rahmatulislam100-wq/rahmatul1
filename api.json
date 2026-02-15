@@ -1,0 +1,44 @@
+{
+  "app_name": "R Keyboard",
+  "developer": "Rahmatul",
+  "version": "1.0",
+  "language_packs": [
+    {
+      "name": "English",
+      "code": "en",
+      "has_uppercase": true,
+      "file_url": "https://raw.githubusercontent.com/rahmatulislam100-wq/rahmatul1/main/english.json"
+    },
+    {
+      "name": "Russian",
+      "code": "ru",
+      "has_uppercase": true,
+      "file_url": "https://raw.githubusercontent.com/rahmatulislam100-wq/rahmatul1/main/russian.json"
+    },
+    {
+      "name": "Turkish",
+      "code": "tr",
+      "has_uppercase": true,
+      "file_url": "https://raw.githubusercontent.com/rahmatulislam100-wq/rahmatul1/main/turkish.json"
+    },
+    {
+      "name": "Arabic",
+      "code": "ar",
+      "has_uppercase": false,
+      "file_url": "https://raw.githubusercontent.com/rahmatulislam100-wq/rahmatul1/main/arabic.json"
+    },
+    {
+      "name": "Persian",
+      "code": "fa",
+      "has_uppercase": false,
+      "file_url": "https://raw.githubusercontent.com/rahmatulislam100-wq/rahmatul1/main/persian.json"
+    },
+    {
+      "name": "Urdu",
+      "code": "ur",
+      "has_uppercase": false,
+      "file_url": "https://raw.githubusercontent.com/rahmatulislam100-wq/rahmatul1/main/urdu.json"
+    }
+  ],
+  "sound_packs": []
+}
